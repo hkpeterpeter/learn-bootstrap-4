@@ -1,3 +1,6 @@
-- [Starter](_starter.html)
 - [Layout > Grid](layout-grid.html)
 - [Layout > Media Object](layout-media-object.html)
+- [Content > Reboot](content-reboot.html)
+- [Content > table](content-table.html)
+- [Content > Typography](content-typography.html)
+- [Content > images and figures](content-images-figures.html)

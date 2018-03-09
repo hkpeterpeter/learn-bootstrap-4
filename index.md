@@ -4,3 +4,5 @@
 - [Content > table](content-table.html)
 - [Content > Typography](content-typography.html)
 - [Content > images and figures](content-images-figures.html)
+- [Utility > Borders](utility-borders.html)
+- [Utility > Position](utility-position.html)

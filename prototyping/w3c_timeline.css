@@ -73,6 +73,10 @@
     left: -16px;
 }
 
+.timeline-content-description {
+    font-size: small;
+}
+
 /* The actual content */
 .timeline-content {
     padding: 20px 30px;
